@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- مسیر: Yademan/app/src/main/res/drawable/ic_stat_bell.xml -->
+<!-- آیکن کوچک نوتیفیکیشن: باید تک‌رنگ سفید باشد -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:pathData="M6,8.5a6,6 0,0 1,12 0c0,6.5 2.5,7.5 2.5,7.5h-17S4,15 4,8.5"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M10.3,20a2,2 0,0 0,3.4 0"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
